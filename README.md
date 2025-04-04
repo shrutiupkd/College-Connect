@@ -13,11 +13,12 @@ To produce the final application, used phpMyAdmin to connect the pages with the 
 
 
 Screenshots : 
-![image](https://github.com/user-attachments/assets/e6c0886e-4d24-4af7-9594-8825947a38bd)
-![image](https://github.com/user-attachments/assets/ab5512e4-830f-4bbc-99f5-51ef2108caea)
-![image](https://github.com/user-attachments/assets/19ed46d3-f61a-44db-99b4-bca5f4426cac)
-![image](https://github.com/user-attachments/assets/eb595f4d-7a23-4d22-aad1-666f630e9112)
-![image](https://github.com/user-attachments/assets/f10e45fc-ae57-4d44-ade2-9626b4a38c8c)
-![image](https://github.com/user-attachments/assets/e491bbf3-33a9-481b-b333-c3cd9affdb83)
-![image](https://github.com/user-attachments/assets/d172dcf7-3f44-4ff4-9ed3-ca4355a08aed)
-![image](https://github.com/user-attachments/assets/b8e66095-95a1-484a-a180-d5950c64cf30)
+
+![image](https://github.com/user-attachments/assets/97624c6d-524b-43ba-b4d3-d0b9eb097438)
+![image](https://github.com/user-attachments/assets/b2a793c8-8b60-483b-91bf-8cd611362e93)
+![image](https://github.com/user-attachments/assets/ddbb7798-073b-40db-8efb-197f9763603e)
+![image](https://github.com/user-attachments/assets/4121cdcf-ef3f-4441-ac97-ffa9b2a5c6b3)
+![image](https://github.com/user-attachments/assets/d4a19756-3256-4793-9644-55d857d16380)
+![image](https://github.com/user-attachments/assets/335437b7-ea6f-4bfb-be0c-a8714d5eb115)
+![image](https://github.com/user-attachments/assets/57246894-e0c0-49ee-8e49-855844c981c3)
+![image](https://github.com/user-attachments/assets/1e74a9d2-618d-419d-be89-8257f3e4fe8a)
